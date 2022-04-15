@@ -1,12 +1,5 @@
 ### Hi there 👋 I'm Abhishek
-
-
-Badge Linkedin Badge
-
-🔧 Languages & Tools:
-React Redux JavaScript HTML5 CSS3 Bootstrap Firebase Python
-
-Git GitHub
+####  Software Engineer || App Developer || Android || Flutter
 
 <!--
 **AbhishekUpadhyay007/AbhishekUpadhyay007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
